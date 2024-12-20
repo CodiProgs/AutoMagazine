@@ -1,0 +1,61 @@
+﻿@model HomeIndexViewModel
+@{
+    ViewData["Title"] = "Главная страница";
+}
+
+
+<div id="carouselExampleIndicators" class="carousel slide mb-3" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active" style="height: 70vh">
+            <img src="~/img/slider/1.jpg" class="d-block w-100 h-100" alt="First slide" style="object-fit: cover">
+        </div>
+        <div class="carousel-item" style="height: 70vh">
+            <img src="~/img/slider/2.png" class="d-block w-100 h-100" alt="Second slide" style="object-fit: cover">
+        </div>
+        <div class="carousel-item" style="height: 70vh">
+            <img src="~/img/slider/3.jpg" class="d-block w-100 h-100" alt="Third slide" style="object-fit: cover">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+<h2>@Model.Title</h2>
+<div class="row mt-3">
+    <div class="col col-md-2">
+        @await Component.InvokeAsync("NavigationMenu")
+    </div>
+    <div class="col col-md-10">
+        <div page-model="@Model.PagingInfo" page-action="Index"
+             page-classes-enabled="true" page-current-category-id="@Model.CurrentCategoryId"
+             page-class="btn" page-class-normal="btn-default"
+             page-class-selected="btn-primary" class="btn-group pull-right">
+        </div>
+        <div class="row mb-2 mt-2">
+            @{
+                foreach (var product in Model.Products)
+                {
+                    <div class="col-lg-4 mb-3">
+                        <img style="width: 100%; aspect-ratio: 16/9; object-fit: cover" src="@product.ImageUrl" />
+                        <h2>@product.Name</h2>
+                        <p class="mb-1">@product.Description</p>
+                        <p>Цена: @product.Price.ToString("c")</p>
+                        <button class="btn btn-primary" href="#" onclick="location.href = '@Url.Action("SingleProduct", "Product", new {productId=product.Id})'">Подробнее</button>
+                        <button class="btn btn-success" href="#" onclick="location.href = '@Url.Action("AddToCart", "ShopCart", new {productId=product.Id})'">В корзину</button>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>

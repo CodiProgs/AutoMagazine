@@ -1,0 +1,36 @@
+﻿@model List<Product>
+<h3 class="text-center mt-5 mb-3">@ViewBag.HeadText</h3>
+
+<table class="table">
+    <thead class="thead-light">
+        <tr>
+            <th scope="col">№</th>
+            <th scope="col">Название</th>
+            <th scope="col">Описание</th>
+            <th scope="col">Цена</th>
+            <th scope="col">Ссылка к картинке</th>
+            <th scope="col">Редактирование</th>
+            <th scope="col">Удаление</th>
+        </tr>
+    </thead>
+    @{
+        int i = 1;
+        foreach (var product in Model)
+        {
+            <tbody>
+                <tr>
+                    <th scope="row">@Html.Raw(i++)</th>
+                    <th scope="row">@product.Name</th>
+                    <td>@product.Description</td>
+                    <td>@product.Price</td>
+                    <td><img height="50" src="@product.ImageUrl" /></td>
+                    <td><button class="btn btn-primary" href="#" onclick="location.href =('@Url.Action("EditProduct", "Product", new {productId=product.Id})')">Редактировать</button></td>
+                    <td>
+                        @Html.ActionLink("Удалить", "DeleteProduct", "Product", new { productId = product.Id },
+                             new { onclick = "return confirm('Вы уверены, что хотите удалить товар?')", @class = "btn btn-danger" })
+                    </td>
+                </tr>
+            </tbody>
+        }
+    }
+</table>

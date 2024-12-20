@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AutoMagazineFront.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AutoMagazineFront.uo8ev7f19x.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\img\\7a15ebc990b9a33fbbe9be9f9716f6eb.jpg",
+      "PackagePath": "staticwebassets\\img\\7a15ebc990b9a33fbbe9be9f9716f6eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\img\\99d18ac9d35d17843979144323c8516c.jpg",
+      "PackagePath": "staticwebassets\\img\\99d18ac9d35d17843979144323c8516c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\img\\c9b4179bff6bad2af0614848f6d91cac.jpg",
+      "PackagePath": "staticwebassets\\img\\c9b4179bff6bad2af0614848f6d91cac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\img\\d05c394c44e57da557c0b10e2182b912.jpg",
+      "PackagePath": "staticwebassets\\img\\d05c394c44e57da557c0b10e2182b912.jpg"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\img\\ead16bb83246869055e79be25a28a615.jpg",
+      "PackagePath": "staticwebassets\\img\\ead16bb83246869055e79be25a28a615.jpg"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\img\\f99b17537c7006eda3e1a0457bf71be9.jpg",
+      "PackagePath": "staticwebassets\\img\\f99b17537c7006eda3e1a0457bf71be9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\img\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\img\\slider\\2.png",
+      "PackagePath": "staticwebassets\\img\\slider\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\img\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\codi\\Desktop\\AutoMagazine\\AutoMagazineFront\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AutoMagazineFront.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AutoMagazineFront.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AutoMagazineFront.props",
+      "PackagePath": "build\\AutoMagazineFront.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AutoMagazineFront.props",
+      "PackagePath": "buildMultiTargeting\\AutoMagazineFront.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AutoMagazineFront.props",
+      "PackagePath": "buildTransitive\\AutoMagazineFront.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

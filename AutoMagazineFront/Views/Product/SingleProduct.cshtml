@@ -1,0 +1,21 @@
+﻿@model Product
+
+<div class="card mb-3 me-auto ms-auto" style="max-width: 860px;">
+    <div class="row g-0">
+        <div class="col-md-4 d-flex">
+            <img src="@Model.ImageUrl" class="img-fluid rounded-start w-100" style="aspect-ratio: 16/9; object-fit: cover" alt="@Model.Name">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">@Model.Name</h5>
+                <p class="card-text">@Model.Description</p>
+                <p class="card-text"><small class="text-body-secondary">@Model.Price.ToString("c")</small></p>
+
+                <button class="btn btn-success" href="#" onclick="location.href = '@Url.Action("EditProduct", "Product", new {productId=Model.Id})'">Изменить</button>
+                <button class="btn btn-primary" href="#" onclick="location.href = '@Url.Action("AddToCart", "ShopCart", new {productId=Model.Id})'">В корзину</button>
+                @Html.ActionLink("Удалить", "DeleteProduct", "Product", new { productId = Model.Id },
+                         new { onclick = "return confirm('Вы уверены, что хотите удалить товар?')", @class = "btn btn-danger" })
+            </div>
+        </div>
+    </div>
+</div>

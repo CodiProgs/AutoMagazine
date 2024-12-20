@@ -1,0 +1,15 @@
+﻿@model CreateOrderDto
+
+<div>
+    <h3>Оформление заказа</h3>
+    <form asp-action="Checkout" asp-controller="Order" method="post" class="form-horizontal">
+        <input class="form-control d-none" asp-for="TotalAmount" />
+
+        <span class="text-success">Всего товаров: @Model.CountItem</span>
+        <span class="text-success">Общая сумма: @Model.TotalAmount</span>
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <input class="btn btn-warning" type="submit" value="Оформить" />
+    </form>
+</div>

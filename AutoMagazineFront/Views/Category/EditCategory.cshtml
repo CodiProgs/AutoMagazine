@@ -1,0 +1,16 @@
+﻿@model Category
+
+<form class="p-a-1" asp-action="EditCategory" method="post">
+    <input class="form-control d-none" asp-for="Id" />
+    <div class="form-row">
+        <div class="form-group col-md-6 mb-3">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <button type="submit" class="btn btn-primary">Обновить</button>
+</form>
+

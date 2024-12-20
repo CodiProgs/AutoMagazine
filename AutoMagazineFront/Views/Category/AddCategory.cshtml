@@ -1,0 +1,15 @@
+﻿@model Category
+
+<form class="p-a-1" asp-action="AddCategory" method="post">
+    <div class="form-row">
+        <div class="form-group col-md-6 mb-3">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <button type="submit" class="btn btn-primary">Добавить</button>
+</form>
+

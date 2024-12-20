@@ -1,0 +1,17 @@
+﻿@model List<Category>
+
+<h2 class="h6 text-center border-bottom pb-2 border-info">Категории</h2>
+
+<a asp-action="Index" asp-controller="Home" class="btn d-block btn-default">Показать все</a>
+
+@foreach (var category in Model)
+{
+    string Class = (@category.Id == ViewBag.SelectedCategory) ? "btn d-block btn-primary" : "btn d-block btn-default";
+    <a class="@Class"
+       asp-action="Index"
+       asp-controller="Home"
+       asp-route-page="1"
+       asp-route-catId="@category.Id">
+        @category.Name
+    </a>
+}
