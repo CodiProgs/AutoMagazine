@@ -342,3 +342,4 @@ C:\Users\codi\Desktop\AutoMagazine\AutoMagazine\obj\Debug\net8.0\refint\AutoMaga
 C:\Users\codi\Desktop\AutoMagazine\AutoMagazine\obj\Debug\net8.0\AutoMagazine.pdb
 C:\Users\codi\Desktop\AutoMagazine\AutoMagazine\obj\Debug\net8.0\AutoMagazine.genruntimeconfig.cache
 C:\Users\codi\Desktop\AutoMagazine\AutoMagazine\obj\Debug\net8.0\ref\AutoMagazine.dll
+C:\Users\codi\Desktop\AutoMagazine\AutoMagazine\obj\Debug\net8.0\AutoMagazine.sourcelink.json

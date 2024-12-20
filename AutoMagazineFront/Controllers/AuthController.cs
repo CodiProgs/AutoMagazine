@@ -15,11 +15,6 @@ namespace AutoMagazineFront.Controllers
             this.httpClient = httpClient;
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
-
         public IActionResult Login()
         {
             if (HttpContext.Session.GetString("UserId") != null)

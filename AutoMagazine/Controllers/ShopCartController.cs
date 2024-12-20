@@ -87,7 +87,7 @@ namespace AutoMagazine.Controllers
                 db.CartItems.Add(cartItem);
                 db.SaveChanges();
 
-                return Ok();
+                return Ok("Товар добавлен в корзину");
             }
             else
             {
@@ -120,7 +120,7 @@ namespace AutoMagazine.Controllers
                 db.CartItems.Remove(cartItem);
                 db.SaveChanges();
 
-                return Ok();
+                return Ok("Товар удален из корзины");
             }
             else
             {

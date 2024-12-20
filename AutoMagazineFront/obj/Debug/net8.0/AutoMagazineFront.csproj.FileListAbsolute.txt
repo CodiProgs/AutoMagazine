@@ -201,3 +201,4 @@ C:\Users\codi\Desktop\AutoMagazine\AutoMagazineFront\obj\Debug\net8.0\refint\Aut
 C:\Users\codi\Desktop\AutoMagazine\AutoMagazineFront\obj\Debug\net8.0\AutoMagazineFront.pdb
 C:\Users\codi\Desktop\AutoMagazine\AutoMagazineFront\obj\Debug\net8.0\AutoMagazineFront.genruntimeconfig.cache
 C:\Users\codi\Desktop\AutoMagazine\AutoMagazineFront\obj\Debug\net8.0\ref\AutoMagazineFront.dll
+C:\Users\codi\Desktop\AutoMagazine\AutoMagazineFront\obj\Debug\net8.0\AutoMagazineFront.sourcelink.json

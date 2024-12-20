@@ -90,3 +90,4 @@ C:\Users\codi\Desktop\AutoMagazine\AutoMagazine\obj\Debug\net8.0\staticwebassets
 C:\Users\codi\Desktop\AutoMagazine\AutoMagazine\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\codi\Desktop\AutoMagazine\AutoMagazine\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\codi\Desktop\AutoMagazine\AutoMagazine\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\codi\Desktop\AutoMagazine\AutoMagazine\obj\Debug\net8.0\staticwebassets.build.json

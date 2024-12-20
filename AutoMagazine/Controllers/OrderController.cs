@@ -104,7 +104,7 @@ namespace AutoMagazine.Controllers
 
                 db.SaveChanges();
 
-                return Ok();
+                return Ok("Заказ создан");
             }
             else
             {

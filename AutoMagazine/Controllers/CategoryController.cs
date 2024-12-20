@@ -55,7 +55,7 @@ namespace AutoMagazine.Controllers
             db.Categories.Add(category);
             db.SaveChanges();
 
-            return Ok();
+            return Ok("Категория создана");
         }
 
         [HttpPut]
@@ -83,7 +83,7 @@ namespace AutoMagazine.Controllers
             db.Categories.Update(category);
             db.SaveChanges();
 
-            return Ok();
+            return Ok("Категория обновлена");
         }
 
         [HttpDelete]
@@ -100,7 +100,7 @@ namespace AutoMagazine.Controllers
             db.Categories.Remove(category);
             db.SaveChanges();
 
-            return Ok();
+            return Ok("Категория удалена");
         }
     }
 }

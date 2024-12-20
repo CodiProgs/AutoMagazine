@@ -86,7 +86,7 @@ namespace AutoMagazine.Controllers
 
             if (product == null)
             {
-                return BadRequest("Продукт не найден");
+                return BadRequest(new {message = "Продукт не найден" });
             }
 
             db.Products.Remove(product);
